@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MotionLayoutExample</string>
+    <string name="salmon_salad">Salmon Salad</string>
+    <string name="description">One of the easiest equations for a wholesome meal is vegetables + salmon. Both are packed with nutrients like protein, healthy fats, and fiber that just make you feel good with every single bite, and this simple recipe is proof"</string>
+    <string name="calories">80 cal</string>
+    <string name="rating">4.5 Rating</string>
+</resources>
